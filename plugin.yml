@@ -1,0 +1,5 @@
+name: Delogger
+main: uk.co.jordanmcqueen.Delogger.Delogger
+version: 1.1.b
+description: >
+             Simple Delogging Tool for CraftBukkit.
